@@ -13,3 +13,6 @@
 [submodule "USDC/lib/forge-std"]
 	path = USDC/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "UniswapV3Pool_WBTC_USDC/lib/forge-std"]
+	path = UniswapV3Pool_WBTC_USDC/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
