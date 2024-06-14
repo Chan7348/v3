@@ -87,3 +87,9 @@ artifacts
 
 # DynamoDB Local files
 .dynamodb/
+
+cache_forge/
+
+.vscode/
+
+out/
