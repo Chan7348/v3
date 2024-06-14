@@ -7,3 +7,6 @@
 [submodule "UniswapV3Pool_VerifiedByNG/lib/forge-std"]
 	path = UniswapV3Pool_VerifiedByNG/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "WBTC/lib/forge-std"]
+	path = WBTC/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
