@@ -1,5 +1,0 @@
-forge-std/=lib/forge-std/src/
-contracts/libraries/=src/libraries/
-contracts/NoDelegateCall.sol/=src/NoDelegateCall.sol/
-contracts/UniswapV3Pool_VerifiedByNG.sol/=src/UniswapV3Pool_VerifiedByNG.sol/
-contracts/interfaces/=src/interfaces/
